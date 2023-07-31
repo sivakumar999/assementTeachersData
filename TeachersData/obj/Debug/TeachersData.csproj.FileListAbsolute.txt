@@ -1,0 +1,8 @@
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\bin\Debug\TeachersData.exe.config
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\bin\Debug\TeachersData.exe
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\bin\Debug\TeachersData.pdb
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\obj\Debug\TeachersData.csproj.AssemblyReference.cache
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\obj\Debug\TeachersData.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\obj\Debug\TeachersData.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\obj\Debug\TeachersData.exe
+M:\Simplilearn\Assisted Projects\Assement\TeachersData\TeachersData\obj\Debug\TeachersData.pdb
